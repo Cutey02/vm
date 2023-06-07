@@ -139,7 +139,7 @@ Nᴏᴡ Yᴏᴜ Cᴀɴ Dᴇᴘʟᴏʏ iTzViR-MuSiC Mᴜsɪᴄ Oɴ Sᴄᴀʟɪɴ�
 > Tʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> Cʟɪᴄᴋ Tʜᴇ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ Tᴏ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Cutey02/vr"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Cutey02/vm"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 ## 𝙑𝙋𝙎 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩 🗝
